@@ -14,4 +14,5 @@ if __name__ == '__main__':
     result = get_greetings()    
 print(result)
 
-Цой жив
+Цой жив.
+Знаю
