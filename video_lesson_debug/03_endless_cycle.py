@@ -1,3 +1,5 @@
+"""Функция делает вычисления"""
+
 from random import randint
 
 

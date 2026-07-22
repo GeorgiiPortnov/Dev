@@ -1,4 +1,4 @@
-"""Функция генерирует крутые поздравления"""
+"""Функция генерирует поздравления"""
 def get_greetings():
     greetings = 'Hello'
     greetings = update_greetings(greetings)
